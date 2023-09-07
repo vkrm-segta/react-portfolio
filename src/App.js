@@ -6,8 +6,8 @@ import { FaTwitterSquare } from "react-icons/fa";
 function App() {
   return (
     <div className='w-full h-full bg-black text-white p-5'>
-      <div className='border p-10'>
-        <div className='w-full px-[10%]'>
+      <div className='border md:p-10'>
+        <div className='w-full px-[10%] py-5'>
           <div className='flex flex-col pb-[10%]'>
             <h1 className='text-7xl font-semibold'>Vikas Khanna</h1>
             <p className='text-lg text-gray-400'>Technical Specialist</p>
